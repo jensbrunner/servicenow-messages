@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="0872edf3c35cb110bfdd53beb00131fd" label="Messages" max_length="40" name="x_1093586_messages_messages" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Message" max_length="1000" name="message" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="encode_utf8=false" label="Receiver" max_length="32" name="receiver" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Seen" max_length="40" name="seen" type="glide_date_time"/>
+        <element attributes="encode_utf8=false" label="Sender" max_length="32" name="sender" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Sent" max_length="40" name="sent" type="glide_date_time"/>
+        <index name="index">
+            <element name="receiver"/>
+        </index>
+        <index name="index2">
+            <element name="sender"/>
+        </index>
+    </element>
+</database>
