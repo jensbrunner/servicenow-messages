@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="0872edf3c35cb110bfdd53beb00131fd" label="Messages" max_length="40" name="x_1093586_messages_messages" type="collection">
-        <element attributes="edge_encryption_enabled=true" label="Message" max_length="1000" name="message" type="string"/>
-        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
-        <element attributes="encode_utf8=false" label="Receiver" max_length="32" name="receiver" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Message" mandatory="true" max_length="1000" name="message" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" mandatory="true" max_length="40" name="number" read_only="true" type="string"/>
+        <element attributes="encode_utf8=false" label="Receiver" mandatory="true" max_length="32" name="receiver" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Seen" max_length="40" name="seen" type="glide_date_time"/>
-        <element attributes="encode_utf8=false" label="Sender" max_length="32" name="sender" reference="sys_user" type="reference"/>
+        <element attributes="encode_utf8=false" default="javascript:gs.getUserID();" dynamic_default_value="2fd8e97bef3221002841f7f775c0fbc1" label="Sender" mandatory="true" max_length="32" name="sender" reference="sys_user" type="reference" use_dynamic_default="true"/>
         <element attributes="edge_encryption_enabled=true" label="Sent" max_length="40" name="sent" type="glide_date_time"/>
         <index name="index">
             <element name="receiver"/>

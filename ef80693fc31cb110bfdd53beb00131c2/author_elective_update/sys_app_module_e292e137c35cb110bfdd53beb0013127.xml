@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>false</active>
+        <application display_value="Messages">2a92e137c35cb110bfdd53beb0013123</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>SEPARATOR</link_type>
+        <map_page/>
+        <mobile_title>Messages</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>1</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-03 17:20:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e292e137c35cb110bfdd53beb0013127</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Messages</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Messages" source="x_1093586_messages">ef80693fc31cb110bfdd53beb00131c2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Messages">ef80693fc31cb110bfdd53beb00131c2</sys_scope>
+        <sys_update_name>sys_app_module_e292e137c35cb110bfdd53beb0013127</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-03 17:51:26</sys_updated_on>
+        <timeline_page/>
+        <title>Messages</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Messages">ef80693fc31cb110bfdd53beb00131c2</application>
+        <file_path/>
+        <instance_id>00033289dbb2701042b321c405961992</instance_id>
+        <instance_name>dev119931</instance_name>
+        <name>sys_app_module_e292e137c35cb110bfdd53beb0013127</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>false</active><application display_value="Messages">2a92e137c35cb110bfdd53beb0013123</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>SEPARATOR</link_type><map_page/><mobile_title>Messages</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order>1</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-03 17:20:14</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e292e137c35cb110bfdd53beb0013127</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Messages</sys_name><sys_overrides/><sys_package display_value="Messages" source="x_1093586_messages">ef80693fc31cb110bfdd53beb00131c2</sys_package><sys_policy/><sys_scope display_value="Messages">ef80693fc31cb110bfdd53beb00131c2</sys_scope><sys_update_name>sys_app_module_e292e137c35cb110bfdd53beb0013127</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-03 17:51:26</sys_updated_on><timeline_page/><title>Messages</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1073043172</payload_hash>
+        <record_name>Messages</record_name>
+        <reverted_from/>
+        <source>b653ad37c35cb110bfdd53beb0013178</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-03 17:51:26</sys_created_on>
+        <sys_id>2fb9e9fbc35cb110bfdd53beb0013156</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189bc869f400000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-03 17:51:26</sys_updated_on>
+        <type>Module</type>
+        <update_guid>67b9e9fbb65cb1105293aba29ff32856</update_guid>
+        <update_guid_history>67b9e9fbb65cb1105293aba29ff32856:1073043172,6692e1378e5cb110d906e5c9105b9629:-1254943803</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Messages">45f9e5fbc35cb110bfdd53beb0013165</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-03 17:52:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>6a08f1085f284d9e9d077fe01c13d024</sys_id>
+        <sys_metadata>e292e137c35cb110bfdd53beb0013127</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Messages</sys_name>
+        <sys_package display_value="Messages" source="x_1093586_messages">ef80693fc31cb110bfdd53beb00131c2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Messages">ef80693fc31cb110bfdd53beb00131c2</sys_scope>
+        <sys_scope_delete display_value="">1f1f66108f4c4d37a73c9b0d76a2bea9</sys_scope_delete>
+        <sys_update_name>sys_app_module_e292e137c35cb110bfdd53beb0013127</sys_update_name>
+        <sys_update_version display_value="sys_app_module_e292e137c35cb110bfdd53beb0013127">2fb9e9fbc35cb110bfdd53beb0013156</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-03 17:52:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
