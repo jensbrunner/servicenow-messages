@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New Section" section_id="0ba4e1b7c35cb110bfdd53beb00131cc" sys_domain="global" table="x_1093586_messages_messages" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sent</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-03 17:29:18</sys_created_on>
+            <sys_id>5fa425b7c35cb110bfdd53beb0013126</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1093586_messages_messages" sys_domain="global" view="Default view">0ba4e1b7c35cb110bfdd53beb00131cc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-03 17:29:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-03 17:29:18</sys_created_on>
+            <sys_id>dfa425b7c35cb110bfdd53beb0013126</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1093586_messages_messages" sys_domain="global" view="Default view">0ba4e1b7c35cb110bfdd53beb00131cc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-03 17:29:18</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>seen</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-03 17:29:18</sys_created_on>
+            <sys_id>53a425b7c35cb110bfdd53beb0013127</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1093586_messages_messages" sys_domain="global" view="Default view">0ba4e1b7c35cb110bfdd53beb00131cc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-03 17:29:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_1093586_messages_messages</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-03 17:29:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0ba4e1b7c35cb110bfdd53beb00131cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1093586_messages_messages</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Messages" source="x_1093586_messages">ef80693fc31cb110bfdd53beb00131c2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Messages">ef80693fc31cb110bfdd53beb00131c2</sys_scope>
+            <sys_update_name>sys_ui_section_0ba4e1b7c35cb110bfdd53beb00131cc</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-03 17:29:17</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Messages">ef80693fc31cb110bfdd53beb00131c2</application>
+        <file_path/>
+        <instance_id>00033289dbb2701042b321c405961992</instance_id>
+        <instance_name>dev119931</instance_name>
+        <name>sys_ui_section_0ba4e1b7c35cb110bfdd53beb00131cc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New Section" section_id="0ba4e1b7c35cb110bfdd53beb00131cc" sys_domain="global" table="x_1093586_messages_messages" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>sent</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-03 17:29:18</sys_created_on><sys_id>5fa425b7c35cb110bfdd53beb0013126</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1093586_messages_messages" sys_domain="global" view="Default view">0ba4e1b7c35cb110bfdd53beb00131cc</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-03 17:29:18</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-03 17:29:18</sys_created_on><sys_id>dfa425b7c35cb110bfdd53beb0013126</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1093586_messages_messages" sys_domain="global" view="Default view">0ba4e1b7c35cb110bfdd53beb00131cc</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-03 17:29:18</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>seen</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-03 17:29:18</sys_created_on><sys_id>53a425b7c35cb110bfdd53beb0013127</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1093586_messages_messages" sys_domain="global" view="Default view">0ba4e1b7c35cb110bfdd53beb00131cc</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-03 17:29:18</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New Section</caption><header>false</header><name>x_1093586_messages_messages</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-03 17:29:17</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>0ba4e1b7c35cb110bfdd53beb00131cc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1093586_messages_messages</sys_name><sys_overrides/><sys_package display_value="Messages" source="x_1093586_messages">ef80693fc31cb110bfdd53beb00131c2</sys_package><sys_policy/><sys_scope display_value="Messages">ef80693fc31cb110bfdd53beb00131c2</sys_scope><sys_update_name>sys_ui_section_0ba4e1b7c35cb110bfdd53beb00131cc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-03 17:29:17</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-34127</payload_hash>
+        <record_name>Messages</record_name>
+        <reverted_from/>
+        <source>b653ad37c35cb110bfdd53beb0013178</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-03 17:29:18</sys_created_on>
+        <sys_id>dba425b7c35cb110bfdd53beb0013128</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189bc7259fa0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-03 17:29:18</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>57a425b7d95cb1109ec26011ac4a1328</update_guid>
+        <update_guid_history>57a425b7d95cb1109ec26011ac4a1328:-34127</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-03 19:03:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>8e13995dcb794a44a6cfbf397c39fd90</sys_id>
+        <sys_metadata>0ba4e1b7c35cb110bfdd53beb00131cc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Section</sys_name>
+        <sys_package display_value="Messages" source="x_1093586_messages">ef80693fc31cb110bfdd53beb00131c2</sys_package>
+        <sys_parent display_value="Messages">0872edf3c35cb110bfdd53beb00131fd</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Messages">ef80693fc31cb110bfdd53beb00131c2</sys_scope>
+        <sys_scope_delete display_value="">1f1f66108f4c4d37a73c9b0d76a2bea9</sys_scope_delete>
+        <sys_update_name>sys_ui_section_0ba4e1b7c35cb110bfdd53beb00131cc</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_0ba4e1b7c35cb110bfdd53beb00131cc">dba425b7c35cb110bfdd53beb0013128</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-03 19:03:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
